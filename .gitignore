@@ -1,0 +1,6 @@
+*.sqlite
+*.db
+*.sh
+*.lock
+__pycache__
+.vscode
